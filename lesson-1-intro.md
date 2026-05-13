@@ -5,7 +5,7 @@
 <!-- **[Presentation Internet](presentations/presentation-1-internet.pdf)**<br />
 **[Manual Internet](manuals/manual-1-internet.pdf)**<br /> -->
 
-<!-- **[Video record Group 1](https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgJNPgZDprbPPCDSRnBmMXfdL?projector=1)**<br />  -->
+**[Video record Intro](https://drive.google.com/file/d/1BKO6DY6x5PxfinMH1A2WOf4Zvi24gzhJ/view?usp=drive_link)**<br /> 
 
 # Homework
 

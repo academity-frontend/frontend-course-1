@@ -2,7 +2,7 @@
 
 ## Frontend basics course #1
 
-[Homework template Figma - Binabox](https://www.figma.com/design/QIJVjpsxrskvwK0oNnFJhB/MaiHome?node-id=80-518&t=cwBLhzUifyeRloEm-0) <br />
+[Homework template Figma - MaiHome](https://www.figma.com/design/QIJVjpsxrskvwK0oNnFJhB/MaiHome?node-id=80-518&t=cwBLhzUifyeRloEm-0) <br />
 
 [Jira Board](https://academity.atlassian.net/jira/software/projects/AFC1/boards/600) <br />
 
@@ -10,9 +10,9 @@
 [Manuals](manuals)  <br />
 [Criteria for HTML Course Quality](criteria.md)  <br />
 
-<!-- [Lesson 1. Intro](lesson-1-intro.md)  <br />
+[Lesson 1. Intro](lesson-1-intro.md)  <br />
 
-[Lesson 2. HTML](lesson-2-html.md)  <br />
+<!-- [Lesson 2. HTML](lesson-2-html.md)  <br />
 
 [Lesson 3. GIT](lesson-3-git.md) <br />
 
