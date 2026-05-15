@@ -14,7 +14,7 @@ When developing a website, there are many conditions that must be met to ensure 
 
 2. ❤️ **There's no system file like ```.DS_Store``` or ```Thumbs.db``` in the repository**
 
-3. ❤️  **There are no commits in the target branch (usually ```main```)**
+3. ❤️  **There are no commits in the target branch (```main```)**
 
 4. 💛 
 **Commit messages are descriptive**<br />
