@@ -8,6 +8,7 @@
 
 [Presentations](presentations) <br />
 [Manuals](manuals)  <br />
+[Cheat sheets](cheat sheets)  <br />
 [Criteria for HTML Course Quality](criteria.md)  <br />
 
 [Lesson 1. Intro](lesson-1-intro.md)  <br />
