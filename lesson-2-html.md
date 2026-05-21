@@ -1,20 +1,14 @@
 # Lesson 2. Semantic HTML
 
-<!-- **[Presentation 1](presentations/presentation-2-html-1.pdf)**<br />
+**[Presentation 1](presentations/presentation-2-html-1.pdf)**<br />
 **[Presentation 2](presentations/presentation-2-html-2.pdf)**<br />
 **[Manual](manuals/manual-2-html.pdf)**<br />  -->
 
-<!-- **Part 1:** <br />
+**Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/13INJgdNndRsRVcJrNaLdepPwqbvNJ4iH/view?usp=sharing)**<br />
 **[Group 2 video](https://drive.google.com/file/d/10Cxz4Nz9PTHUF1KTlTeWTeVWpwVeRyf5/view?usp=sharing)**<br />
 
-**Part 2:** <br />
-**[Group 1 video](https://drive.google.com/file/d/1OWOjHijsSfFMc7XdgM1lHG1tbV8-LRyl/view?usp=sharing)**<br />
-**[Group 2 video](https://drive.google.com/file/d/1o8K1rlJ5zTAH2w93xpbVOFNu-3SqUhif/view?usp=sharing)**<br /> -->
-
 # Homework
-
-
 
 1. Make semantic markup for the [mockup](https://www.figma.com/design/QIJVjpsxrskvwK0oNnFJhB/MaiHome?node-id=158-830&t=ALxyONuQusxqpLyJ-1).
 
