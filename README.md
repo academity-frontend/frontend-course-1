@@ -15,9 +15,9 @@
 
 [Lesson 2. HTML](lesson-2-html.md)  <br />
 
-<!-- [Lesson 3. GIT](lesson-3-git.md) <br />
+[Lesson 3. GIT](lesson-3-git.md) <br />
 
-[Lesson 4. Basic CSS](lesson-4-css.md) <br />
+<!-- [Lesson 4. Basic CSS](lesson-4-css.md) <br />
 
 [Lesson 5. Images](lesson-5-images.md) <br />
 

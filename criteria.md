@@ -116,12 +116,12 @@ No unnecessary wrappers in the markup.
 There should be no empty blocks for presentational purposes. Use pseudo-elements for this.  
 🚩 If an element has no styles or they can be transferred to the nearest enclosing element.  
 
-13. 💛
+<!-- 13. 💛
 **The logo on internal pages should lead to the home page.**  
-On the home page, the logo should not lead to any page.  
+On the home page, the logo should not lead to any page.   -->
 
-14. ❤️
-**All pages should be linked and checked for broken links.**  
+<!-- 14. ❤️
+**All pages should be linked and checked for broken links.**   -->
 
 15. 💛
 **External links should have the attribute ```target="_blank"```.**  
