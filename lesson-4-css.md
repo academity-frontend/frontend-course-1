@@ -49,6 +49,13 @@ except for body, ul, a, img. <br />
 Color notation is either in hex ```(#000)``` or rgba if there is transparency. <br />
 Keywords are not used. <br />
 
+💛 **Classes are named correctly:**  <br />
+No transliteration in class names, attributes, etc.   <br />
+Only lowercase letters are used.   <br />
+If a class name consists of several words, use hyphens between the words: slider-block, etc.   <br />
+Do not use presentational classes that specify styles (fz-15, color-green, block-left).   <br />
+The class name should reflect the purpose (semantics) of the block, not its appearance.   <br />
+
 ### Games
 
 **[CSS Speedrun](https://css-speedrun.netlify.app/)**: An interactive platform where users can improve their CSS skills by completing a series of speed tasks. The tasks become increasingly difficult, testing knowledge from basic to advanced CSS topics.
