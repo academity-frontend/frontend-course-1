@@ -3,13 +3,9 @@
 **[Presentation 1](presentations/presentation-4-css.pdf)**<br />
 **[Manual](manuals/manual-4-css.pdf)**<br /> 
 
-<!-- **Part 1:** <br />
-**[Group 1 video](https://drive.google.com/file/d/1b77Ye3Dp6DfRdDHp3fJjax4U0iB7K_PN/view?usp=sharing)**<br />
-**[Group 2 video](https://drive.google.com/file/d/1YfdfzHqi8UL2Tw1LL4SCSTOWRj4n4IoY/view?usp=sharing)**<br />
-
-**Part 2:** <br />
-**[Group 1 video](https://drive.google.com/file/d/1f3MwrpqZpuwj_c0DochkIcnaZdT9CAVY/view?usp=sharing)**<br />
-**[Group 2 video](https://drive.google.com/file/d/1kmlzLsFs6evaeaR4Cw8cT1W5TcEGYE_s/view?usp=sharing)**<br /> -->
+**Video:** <br />
+**[Part 1:](https://drive.google.com/file/d/1jaKIhr5kpTANxRnBuaIue_yL4jgzeWbF/view?usp=sharing)**<br />
+**[Part 2:](https://drive.google.com/file/d/1NjoBcR21ewINK2ngWZ-ub-pC5IU8Y7wy/view?usp=sharing)**<br />
 
 # Homework
 

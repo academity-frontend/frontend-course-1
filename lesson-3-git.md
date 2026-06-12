@@ -4,11 +4,9 @@
 **[Presentation 2](presentations/presentation-3-git-2.pdf)**<br />
 **[Manual](manuals/manual-3-git.pdf)**<br /> 
 
-<!-- 
 **Video:** <br />
-**[Part 1:](https://drive.google.com/file/d/13INJgdNndRsRVcJrNaLdepPwqbvNJ4iH/view?usp=sharing)**<br />
-**[Part 2:](https://drive.google.com/file/d/10Cxz4Nz9PTHUF1KTlTeWTeVWpwVeRyf5/view?usp=sharing)**<br />
- -->
+**[Part 1:](https://drive.google.com/file/d/1SABvBtF5TegwPDzTVWMTBDANOG3yTdWg/view?usp=sharing)**<br />
+**[Part 2:](https://drive.google.com/file/d/1611veodMytE5mwjrmTMC015awDh_vLDB/view?usp=sharing)**<br />
 
 # Homework
 
