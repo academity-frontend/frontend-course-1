@@ -17,14 +17,14 @@
 
 [Lesson 3. GIT](lesson-3-git.md) <br />
 
-<!-- [Lesson 4. Basic CSS](lesson-4-css.md) <br />
+ [Lesson 4. Basic CSS](lesson-4-css.md) <br />
 
 [Lesson 5. Images](lesson-5-images.md) <br />
 
-[Lesson 6. Sizes and spaces](lesson-6-sizes.md) <br />
+[Lesson 6. Sizes and spaces](lesson-6-spaces.md) <br />
 
 [Lesson 7. Positioning](lesson-7-position.md) <br />
-
+<!--
 [Lesson 8. CSS pseudo](lesson-8-pseudo.md) <br />
 
 [Lesson 9. Forms](lesson-9-forms.md) <br />
