@@ -19,9 +19,9 @@
 [Lesson 6. Sizes and spaces](lesson-6-spaces.md) <br />
 [Lesson 7. Positioning](lesson-7-position.md) <br />
 [Lesson 8. CSS pseudo](lesson-8-pseudo.md) <br />
-<!--
-[Lesson 9. Forms](lesson-9-forms.md) <br />
 
+[Lesson 9. Forms](lesson-9-forms.md) <br />
+<!--
 [Lesson 10. Flex basic](lesson-10-flex.md) <br />
 
 [Lesson 11. Grid basic](lesson-11-grid.md) <br />
