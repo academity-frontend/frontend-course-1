@@ -1,7 +1,7 @@
-# Lesson 15. Flexbox
+# Lesson 10. Flexbox
 
-**[Presentation](presentations/presentation-15-flex.pdf)**<br />
-**[Manual](manuals/manual-15-flex.pdf)**<br /> 
+**[Presentation](presentations/presentation-10-flex.pdf)**<br />
+**[Manual](manuals/manual-10-flex.pdf)**<br /> 
 
 <!-- **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1lERTL7lKzP0MnS9sblLNfSnK4vwkk5_p/view?usp=sharing)**<br />
@@ -13,7 +13,7 @@
 
 # Homework
 
-**Create a page layout using Flexbox.**:<br />
+**Create a page layout using Flexbox.**<br />
 
 ##  Criteria Layout
 

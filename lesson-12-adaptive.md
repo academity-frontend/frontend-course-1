@@ -1,7 +1,7 @@
-# Lesson 17. Adaptive layouts
+# Lesson 12. Adaptive layouts
 
-<!-- **[Presentation](presentations/presentation-17-adaptive.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-13-adaptive.pdf)**<br />  -->
+<!-- **[Presentation](presentations/presentation-12-adaptive.pdf)**<br /> -->
+<!-- **[Manual](manuals/manual-12-adaptive.pdf)**<br />  -->
 
  <!-- **Part 1:** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/1YCgZ9oogQwgDSR07JFubV1wlWHrSj7D5/view?usp=sharing)**<br />

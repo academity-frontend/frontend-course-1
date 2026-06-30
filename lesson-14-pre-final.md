@@ -1,8 +1,8 @@
  <!-- **[Applying CSS Word Wrap, Overflow Wrap, and Word Break on Atatus](https://www.atatus.com/blog/applying-css-word-wrap-overflow-wrap-word-break)**: An overview of CSS properties for managing word wrapping and text overflow, helping maintain neat and readable content under any conditions.
  -->
-# Lesson 20. Pre final 
+# Lesson 14. Pre final 
 
-**[Presentation](presentations/presentation-20-prefinal.pdf)**<br />
+<!-- **[Presentation](presentations/presentation-14-prefinal.pdf)**<br /> -->
 
 https://ishadeed.com/article/balancing-text-css/ 
 https://ishadeed.com/article/css-short-long-content/ 

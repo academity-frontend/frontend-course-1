@@ -1,7 +1,7 @@
-# Lesson 16. Grid
+# Lesson 11. Grid
 
-**[Presentation](presentations/presentation-16-grid.pdf)**<br />
-**[Manual](manuals/manual-16-grid.pdf)**<br /> 
+**[Presentation](presentations/presentation-11-grid.pdf)**<br />
+**[Manual](manuals/manual-11-grid.pdf)**<br /> 
 
 <!-- **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1YunvZoedKImrRzhbXANqscbencvtWd2e/view)**<br />

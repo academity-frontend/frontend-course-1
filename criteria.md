@@ -123,31 +123,31 @@ On the home page, the logo should not lead to any page.   -->
 <!-- 14. ❤️
 **All pages should be linked and checked for broken links.**   -->
 
-15. 💛
+13. 💛
 **External links should have the attribute ```target="_blank"```.**  
 
-16. ❤️
+14. ❤️
 **Each page must have an ```<h1>``` tag that is different from the page title.**  
 
-17. 💛
+15. 💛
 **The heading tree structure is maintained.** <br />
 From the headings, a table of contents can be formed like in a book. <br />
 Heading levels go in order from top to bottom and are not skipped. <br />
 Check it on https://yoksel.github.io/html-tree.  <br />
 
-18. ❤️
+16. ❤️
 **Appropriate types for input are specified.**  <br />
 This is especially important for mobile devices as they use different keyboards for different input types.  <br />
 http://mobileinputtypes.com 
 
-19. ❤️
+17. ❤️
 **Each form element should have a ```<label>```.** <br />
 If there is no explicitly set text for the label, then add it to the markup and hide it accessibly. 
 
-20. 💛
-**Resizing ```<textarea>``` should not break the layout.** 
+<!-- 18. 💛
+**Resizing ```<textarea>``` should not break the layout.**  -->
 
-21. ❤️
+18. ❤️
 **Basic HTML form validation should be implemented.** <br />
 The form cannot be submitted with empty fields. <br />
 Data in fields must match the field format. <br />
@@ -353,7 +353,7 @@ CSS vendor prefixes are used and generated according to supported browsers. <br 
 🛠 CSS Validator https://jigsaw.w3.org/css-validator/  <br />
 🛠 Stylelint https://stylelint.io/  
 
-21. 💚
+21. 💛
 **Use CSS variables for repeated values – colors, sizes, etc.** 
 
 22. 💚

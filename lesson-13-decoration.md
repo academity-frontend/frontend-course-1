@@ -1,7 +1,7 @@
 # Lesson 18. CSS Decorations
 
-**[Presentation](presentations/presentation-18-decorations.pdf)**<br />
-**[Manual](manuals/manual-18-decorations.pdf)**<br />
+<!-- **[Presentation](presentations/presentation-13-decorations.pdf)**<br />
+**[Manual](manuals/manual-13-decorations.pdf)**<br /> -->
 
 <!-- **Part 1:** <br />
 **[Group 1 video]()**<br />
@@ -12,11 +12,13 @@
 **[Group 2 video](https://drive.google.com/file/d/1ynyXaoi_7zxZOgfh240xdsV7NzaNUs0N/view?usp=sharing)**<br /> -->
 
 # Homework
-- Apply visual effects such as shadows, shapes, and filters and smooth transitions for user actions.
+1. Apply visual effects such as shadows, shapes, and filters and smooth transitions for user actions.
 
 
 **End Goal:**  
 Your website should look exactly like the design mockup. This is the final stage of work on the website.
+
+2. Add transitions for all changing states to ensure smoothness.
 
 ## Additional
 

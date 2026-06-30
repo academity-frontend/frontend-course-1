@@ -1,7 +1,6 @@
-# Lesson 19. Animations
+# Lesson 13. Animations
 
-**[Presentation](presentations/presentation-19-animation.pdf)**<br />
-**[Manual](manuals/manual-19-animation.pdf)**<br /> 
+<!-- **[Manual](manuals/manual-13-animation.pdf)**<br />  -->
 
 <!-- **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1ZMCNSE_rxlVP-9aIquA-oZ5jcfpgKnqm/view?usp=sharing)**<br />
@@ -10,16 +9,6 @@
 **Part 2:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1XX2IZmgMsaVPMXOPltafeOQkwtHk1TtH/view)**<br />
 **[Group 2 video](https://drive.google.com/file/d/1A_G_MbR9B84JC0Y2K7OQkIoQG48jrX-Y/view)**<br /> -->
-
-# Homework
-
-1. Add transitions for all changing states to ensure smoothness.
-   
-## Additional
-
-Add animations using the animate.css library. <br />
-or <br />
-Write animations independently using @keyframes.
 
 # Demo
 
